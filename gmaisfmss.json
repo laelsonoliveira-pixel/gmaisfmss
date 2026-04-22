@@ -1,6 +1,6 @@
 {
         "stationName": "Gmais FM - São Simão",
-        "audioUrl": "https://ssl1.transmissaodigital.com:20069/stream",
+        "audioUrl": "https://ssl1.transmissaodigital.com:20009/stream",
         "videoUrl": "https://6836041ea1117.streamlock.net:443/8114/8114/playlist.m3u8",
         "nowLive": {
             "hostName": "Locutor",
