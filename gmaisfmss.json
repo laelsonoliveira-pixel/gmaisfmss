@@ -21,13 +21,13 @@
                 "time": "00:00",
                 "title": "Madrugada G Mais",
                 "host": "Automático",
-                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/gmaisfmss"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
             {
                 "day": "Segunda",
                 "time": "06:00",
                 "title": "Alvorada Sertaneja",
-                "host": "Automático",
+                "host": "Marcelo Luar",
                 "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
             },
             {
@@ -49,7 +49,7 @@
                 "day": "Segunda",
                 "title": "Tarde da G+",
                 "host": "Automático",
-                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
             {
                 "day": "Segunda",
@@ -63,7 +63,7 @@
                 "time": "15:00",
                 "title": "Tarde da G+",
                 "host": "Automático",
-                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
 			
             {
@@ -71,7 +71,7 @@
                 "time": "19:00",
                 "title": "A Voz do Brasil",
                 "host": "A Voz do Brasil",
-                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
             {
                 "day": "Segunda",
@@ -85,13 +85,13 @@
                 "time": "00:00",
                 "title": "Madrugada G Mais",
                 "host": "Automático",
-                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
             {
                 "day": "Terça",
                 "time": "06:00",
                 "title": "Alvorada Sertaneja",
-                "host": "Automático",
+                "host": "Marcelo Luar",
                 "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
             },
             {
@@ -111,9 +111,9 @@
             {
 				"time": "12:00",
                 "day": "Terça",
-                "title": "Programa Arena Esporte Total",
-                "host": "Fláviano Rato e Vitor Prado",
-                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/esporte.png"
+                "title": "Tarde da G+",
+                "host": "Automático",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
             {
                 "day": "Terça",
@@ -125,17 +125,11 @@
             {
                 "day": "Terça",
                 "time": "15:00",
-                "title": "Classic Hits",
-                "host": "Maria Clara",
-                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+                "title": "Tarde da G+",
+                "host": "Automatico",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
-			{
-                "day": "Terça",
-                "time": "16:00",
-                "title": "Programa Rodeio",
-                "host": "Elcimar Batista",
-                "image": "https://audiencemidia.com.br/json/img/elcimar.png"
-            },
+			
             {
                 "day": "Terça",
                 "time": "19:00",
@@ -155,13 +149,13 @@
                 "time": "00:00",
                 "title": "Madrugada G Mais",
                 "host": "Automático",
-                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
             {
                 "day": "Quarta",
                 "time": "06:00",
                 "title": "Alvorada Sertaneja",
-                "host": "Automático",
+                "host": "Marcelo",
                 "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
             },
             {
@@ -181,9 +175,9 @@
             {
 				"time": "12:00",
                 "day": "Quarta",
-                "title": "Programa Arena Esporte Total",
-                "host": "Fláviano Rato e Vitor Prado",
-                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/esporte.png"
+                "title": "Tarde da G+",
+                "host": "Automático",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
             {
                 "day": "Quarta",
@@ -195,17 +189,11 @@
             {
                 "day": "Quarta",
                 "time": "15:00",
-                "title": "Classic Hits",
-                "host": "Maria Clara",
-                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+                "title": "Tarde da G+",
+                "host": "Automático",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
-			{
-                "day": "Quarta",
-                "time": "16:00",
-                "title": "Programa Rodeio",
-                "host": "Elcimar Batista",
-                "image": "https://audiencemidia.com.br/json/img/elcimar.png"
-            },
+			
             {
                 "day": "Quarta",
                 "time": "19:00",
@@ -225,13 +213,13 @@
                 "time": "00:00",
                 "title": "Madrugada G Mais",
                 "host": "Automático",
-                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
             {
                 "day": "Quinta",
                 "time": "06:00",
                 "title": "Alvorada Sertaneja",
-                "host": "Automático",
+                "host": "Marcelo Luar",
                 "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
             },
             {
@@ -251,9 +239,9 @@
             {
 				"time": "12:00",
                 "day": "Quinta",
-                "title": "Programa Arena Esporte Total",
-                "host": "Fláviano Rato e Vitor Prado",
-                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/esporte.png"
+                "title": "Tarde da G+",
+                "host": "Automático",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
             {
                 "day": "Quinta",
@@ -265,17 +253,11 @@
             {
                 "day": "Quinta",
                 "time": "15:00",
-                "title": "Classic Hits",
-                "host": "Maria Clara",
-                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+                "title": "Tarde da G+",
+                "host": "Automático",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
-			{
-                "day": "Quinta",
-                "time": "16:00",
-                "title": "Programa Rodeio",
-                "host": "Elcimar Batista",
-                "image": "https://audiencemidia.com.br/json/img/elcimar.png"
-            },
+			
             {
                 "day": "Quinta",
                 "time": "19:00",
@@ -295,13 +277,13 @@
                 "time": "00:00",
                 "title": "Madrugada G Mais",
                 "host": "Automático",
-                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
             {
                 "day": "Sexta",
                 "time": "06:00",
                 "title": "Alvorada Sertaneja",
-                "host": "Automático",
+                "host": "Marcelo Luar",
                 "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
             },
             {
@@ -321,9 +303,9 @@
             {
                 "day": "Sexta",
                 "time": "12:00",
-                "title": "Programa Arena Esporte Total",
-                "host": "Fláviano Rato e Vitor Prado",
-                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/esporte.png"
+                "title": "Tarde G+",
+                "host": "Automático",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
             {
                 "day": "Sexta",
@@ -335,17 +317,11 @@
             {
                 "day": "Sexta",
                 "time": "15:00",
-                "title": "Classic Hits",
-                "host": "Maria Clara",
-                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+                "title": "Tarde da G+",
+                "host": "Automático",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
-			{
-                "day": "Sexta",
-                "time": "16:00",
-                "title": "Programa Rodeio",
-                "host": "Elcimar Batista",
-                "image": "https://audiencemidia.com.br/json/img/elcimar.png"
-            },
+			
             {
                 "day": "Sexta",
                 "time": "19:00",
@@ -365,7 +341,7 @@
                 "time": "00:00",
                 "title": "Madrugada G Mais",
                 "host": "Automático",
-                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
             {
                 "day": "Sábado",
@@ -383,10 +359,10 @@
             },
             {
                 "day": "Sábado",
-                "time": "12:00",
+                "time": "11:00",
                 "title": "Programação G+ FM 107,5",
                 "host": "Automático",
-                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
             {
                 "day": "Sábado",
@@ -398,17 +374,11 @@
             {
                 "day": "Sábado",
                 "time": "15:00",
-                "title": "Classic Hits",
-                "host": "Maria Clara",
-                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+                "title": "Tarde da G+",
+                "host": "Automático",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
-			{
-                "day": "Sábado",
-                "time": "16:00",
-                "title": "Programa Rodeio",
-                "host": "Elcimar Batista",
-                "image": "https://audiencemidia.com.br/json/img/elcimar.png"
-            },
+			
             {
                 "day": "Sábado",
                 "time": "19:00",
@@ -421,28 +391,22 @@
                 "time": "22:00",
                 "title": "Programa Na Balada Gmais",
                 "host": "Automático",
-                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
             {
                 "day": "Domingo",
                 "time": "00:00",
                 "title": "Madrugada G Mais",
                 "host": "Automático",
-                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             },
+            
             {
                 "day": "Domingo",
-                "time": "05:00",
-                "title": "Programação Automática",
-                "host": "Automático",
-                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
-            },
-            {
-                "day": "Domingo",
-                "time": "08:00",
+                "time": "06:00",
                 "title": "Programação G+ FM 107,5",
                 "host": "Automático",
-                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmss/refs/heads/main/LOGO_SAO_SIMAO.png"
             
             }
         ]
