@@ -1,0 +1,449 @@
+{
+        "stationName": "Gmais FM - São Simão",
+        "audioUrl": "https://ssl1.transmissaodigital.com:20069/stream",
+        "videoUrl": "https://6836041ea1117.streamlock.net:443/8114/8114/playlist.m3u8",
+        "nowLive": {
+            "hostName": "Locutor",
+            "showName": "Programa",
+            "message": "AO VIVO agora na Rádio Gmais FM!"
+        },
+        "social": {
+            "instagram": "https://www.instagram.com/gmaisfmsm",
+            "facebook": "https://www.facebook.com",
+            "youtube": "https://www.youtube.com/@gmaisfm",
+            "site": "https://gmaisfmgoiatuba.com.br",
+            "whatsapp": "https://wa.me/5564999827103",
+            "phone": "tel:+5564999827103"
+        },
+        "schedule": [
+            {
+                "day": "Segunda",
+                "time": "00:00",
+                "title": "Madrugada G Mais",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Segunda",
+                "time": "06:00",
+                "title": "Alvorada Sertaneja",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Segunda",
+                "time": "08:00",
+                "title": "Programa Bom Dia G Mais",
+                "host": "Helineia Martins",
+                "image": "https://audiencemidia.com.br/json/img/helineia.png"
+            },
+			{
+                "day": "Segunda",
+                "time": "11:00",
+                "title": "JORNAL DA G+ FM 107,5",
+                "host": "Helineia Martins & Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfm/refs/heads/main/jornal.png"
+            },
+            {
+				"time": "12:00",
+                "day": "Segunda",
+                "title": "Tarde da G+",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Segunda",
+                "time": "13:00",
+                "title": "Programa Top Show",
+                "host": "Charles Godoi",
+                "image": "https://audiencemidia.com.br/json/img/charles.png"
+            },
+            {
+                "day": "Segunda",
+                "time": "15:00",
+                "title": "Tarde da G+",
+                "host": "Automático",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+            },
+			
+            {
+                "day": "Segunda",
+                "time": "19:00",
+                "title": "A Voz do Brasil",
+                "host": "A Voz do Brasil",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Segunda",
+                "time": "20:00",
+                "title": "Programa A Noite é Nossa",
+                "host": "Ana Lúcia",
+                "image": "https://audiencemidia.com.br/json/img/ana.png"
+            },
+            {
+                "day": "Terça",
+                "time": "00:00",
+                "title": "Madrugada G Mais",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Terça",
+                "time": "06:00",
+                "title": "Alvorada Sertaneja",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Terça",
+                "time": "08:00",
+                "title": "Programa Bom Dia G Mais",
+                "host": "Helineia Martins",
+                "image": "https://audiencemidia.com.br/json/img/helineia.png"
+            },
+			{
+                "day": "Terça",
+                "time": "11:00",
+                "title": "JORNAL DA G+ FM 107,5",
+                "host": "Helineia Martins & Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfm/refs/heads/main/jornal.png"
+            },
+            {
+				"time": "12:00",
+                "day": "Terça",
+                "title": "Programa Arena Esporte Total",
+                "host": "Fláviano Rato e Vitor Prado",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/esporte.png"
+            },
+            {
+                "day": "Terça",
+                "time": "13:00",
+                "title": "Programa Top Show",
+                "host": "Charles Godoi",
+                "image": "https://audiencemidia.com.br/json/img/charles.png"
+            },
+            {
+                "day": "Terça",
+                "time": "15:00",
+                "title": "Classic Hits",
+                "host": "Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+            },
+			{
+                "day": "Terça",
+                "time": "16:00",
+                "title": "Programa Rodeio",
+                "host": "Elcimar Batista",
+                "image": "https://audiencemidia.com.br/json/img/elcimar.png"
+            },
+            {
+                "day": "Terça",
+                "time": "19:00",
+                "title": "A Voz do Brasil",
+                "host": "A Voz do Brasil",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Terça",
+                "time": "20:00",
+                "title": "Programa A Noite é Nossa",
+                "host": "Ana Lúcia",
+                "image": "https://audiencemidia.com.br/json/img/ana.png"
+            },
+            {
+                "day": "Quarta",
+                "time": "00:00",
+                "title": "Madrugada G Mais",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Quarta",
+                "time": "06:00",
+                "title": "Alvorada Sertaneja",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Quarta",
+                "time": "08:00",
+                "title": "Programa Bom Dia G Mais",
+                "host": "Helineia Martins",
+                "image": "https://audiencemidia.com.br/json/img/helineia.png"
+            },
+			{
+                "day": "Quarta",
+                "time": "11:00",
+                "title": "JORNAL DA G+ FM 107,5",
+                "host": "Helineia Martins & Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfm/refs/heads/main/jornal.png"
+            },
+            {
+				"time": "12:00",
+                "day": "Quarta",
+                "title": "Programa Arena Esporte Total",
+                "host": "Fláviano Rato e Vitor Prado",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/esporte.png"
+            },
+            {
+                "day": "Quarta",
+                "time": "13:00",
+                "title": "Programa Top Show",
+                "host": "Charles Godoi",
+                "image": "https://audiencemidia.com.br/json/img/charles.png"
+            },
+            {
+                "day": "Quarta",
+                "time": "15:00",
+                "title": "Classic Hits",
+                "host": "Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+            },
+			{
+                "day": "Quarta",
+                "time": "16:00",
+                "title": "Programa Rodeio",
+                "host": "Elcimar Batista",
+                "image": "https://audiencemidia.com.br/json/img/elcimar.png"
+            },
+            {
+                "day": "Quarta",
+                "time": "19:00",
+                "title": "A Voz do Brasil",
+                "host": "A Voz do Brasil",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Quarta",
+                "time": "20:00",
+                "title": "Programa A Noite é Nossa",
+                "host": "Ana Lúcia",
+                "image": "https://audiencemidia.com.br/json/img/ana.png"
+            },
+            {
+                "day": "Quinta",
+                "time": "00:00",
+                "title": "Madrugada G Mais",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Quinta",
+                "time": "06:00",
+                "title": "Alvorada Sertaneja",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Quinta",
+                "time": "08:00",
+                "title": "Programa Bom Dia G Mais",
+                "host": "Helineia Martins",
+                "image": "https://audiencemidia.com.br/json/img/helineia.png"
+            },
+			{
+                "day": "Quinta",
+                "time": "11:00",
+                "title": "JORNAL DA G+ FM 107,5",
+                "host": "Helineia Martins & Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfm/refs/heads/main/jornal.png"
+            },
+            {
+				"time": "12:00",
+                "day": "Quinta",
+                "title": "Programa Arena Esporte Total",
+                "host": "Fláviano Rato e Vitor Prado",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/esporte.png"
+            },
+            {
+                "day": "Quinta",
+                "time": "13:00",
+                "title": "Programa Top Show",
+                "host": "Charles Godoi",
+                "image": "https://audiencemidia.com.br/json/img/charles.png"
+            },
+            {
+                "day": "Quinta",
+                "time": "15:00",
+                "title": "Classic Hits",
+                "host": "Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+            },
+			{
+                "day": "Quinta",
+                "time": "16:00",
+                "title": "Programa Rodeio",
+                "host": "Elcimar Batista",
+                "image": "https://audiencemidia.com.br/json/img/elcimar.png"
+            },
+            {
+                "day": "Quinta",
+                "time": "19:00",
+                "title": "A Voz do Brasil",
+                "host": "A Voz do Brasil",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Quinta",
+                "time": "20:00",
+                "title": "Programa A Noite é Nossa",
+                "host": "Ana Lúcia",
+                "image": "https://audiencemidia.com.br/json/img/ana.png"
+            },
+            {
+                "day": "Sexta",
+                "time": "00:00",
+                "title": "Madrugada G Mais",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Sexta",
+                "time": "06:00",
+                "title": "Alvorada Sertaneja",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Sexta",
+                "time": "08:00",
+                "title": "Programa Bom Dia G Mais",
+                "host": "Helineia Martins",
+                "image": "https://audiencemidia.com.br/json/img/helineia.png"
+            },
+			{
+                "day": "Sexta",
+                "time": "11:00",
+                "title": "JORNAL DA G+ FM 107,5",
+                "host": "Helineia Martins & Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfm/refs/heads/main/jornal.png"
+            },
+            {
+                "day": "Sexta",
+                "time": "12:00",
+                "title": "Programa Arena Esporte Total",
+                "host": "Fláviano Rato e Vitor Prado",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/esporte.png"
+            },
+            {
+                "day": "Sexta",
+                "time": "13:00",
+                "title": "Programa Top Show",
+                "host": "Charles Godoi",
+                "image": "https://audiencemidia.com.br/json/img/charles.png"
+            },
+            {
+                "day": "Sexta",
+                "time": "15:00",
+                "title": "Classic Hits",
+                "host": "Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+            },
+			{
+                "day": "Sexta",
+                "time": "16:00",
+                "title": "Programa Rodeio",
+                "host": "Elcimar Batista",
+                "image": "https://audiencemidia.com.br/json/img/elcimar.png"
+            },
+            {
+                "day": "Sexta",
+                "time": "19:00",
+                "title": "A Voz do Brasil",
+                "host": "A Voz do Brasil",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Sexta",
+                "time": "20:00",
+                "title": "Programa A Noite é Nossa",
+                "host": "Ana Lúcia",
+                "image": "https://audiencemidia.com.br/json/img/ana.png"
+            },
+            {
+                "day": "Sábado",
+                "time": "00:00",
+                "title": "Madrugada G Mais",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Sábado",
+                "time": "06:00",
+                "title": "Alvorada Sertaneja",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Sábado",
+                "time": "08:00",
+                "title": "Programa Bom Dia G Mais",
+                "host": "Helineia Martins",
+                "image": "https://audiencemidia.com.br/json/img/helineia.png"
+            },
+            {
+                "day": "Sábado",
+                "time": "12:00",
+                "title": "Programação G+ FM 107,5",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Sábado",
+                "time": "13:00",
+                "title": "Programa Top Show",
+                "host": "Charles Godoi",
+                "image": "https://audiencemidia.com.br/json/img/charles.png"
+            },
+            {
+                "day": "Sábado",
+                "time": "15:00",
+                "title": "Classic Hits",
+                "host": "Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+            },
+			{
+                "day": "Sábado",
+                "time": "16:00",
+                "title": "Programa Rodeio",
+                "host": "Elcimar Batista",
+                "image": "https://audiencemidia.com.br/json/img/elcimar.png"
+            },
+            {
+                "day": "Sábado",
+                "time": "19:00",
+                "title": "Programa A Noite é nossa",
+                "host": "Ana Lúcia",
+                "image": "https://audiencemidia.com.br/json/img/ana.png"
+            },
+            {
+                "day": "Sábado",
+                "time": "22:00",
+                "title": "Programa Na Balada Gmais",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Domingo",
+                "time": "00:00",
+                "title": "Madrugada G Mais",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Domingo",
+                "time": "05:00",
+                "title": "Programação Automática",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            },
+            {
+                "day": "Domingo",
+                "time": "08:00",
+                "title": "Programação G+ FM 107,5",
+                "host": "Automático",
+                "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
+            
+            }
+        ]
+    }
